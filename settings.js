@@ -4,12 +4,12 @@ let moment = require('moment-timezone')
 
 // Owner
 global.owner = [
-  ['6285717062467'],
-  ['6285717062467'],
-  ['6285717062467', 'DitzOfc', 'contact@tenka.my.id', true]
+  ['6285603256172'],
+  ['6289501954399'],
+  ['62895329161147', 'SeppOfc', 'contactme epepbooyah1a@gmail.com', true]
 ] // Put your number here
-global.mods = ['6285891267541'] // Moderator
-global.prems = ['6285717062467'] // Premium
+global.mods = ['6285603256172'] // Moderator
+global.prems = ['6285603256172'] // Premium
 global.rose = 'YqzaFbPLBTCgEmCyqUHysLw9pRUw12CCELJxw6N7viYc1c3VDxk31iIGoomCzK0Z';
 global.lolkey = 'pentilkuda';
 global.neo = 'DitzOfc';
@@ -41,10 +41,10 @@ const spack = fs.readFileSync("function/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
   var sticker_name = 'Sticker By'
-  var sticker_author = 'Tenka Bot'
+  var sticker_author = 'Beta Bot'
 } else {
   var sticker_name = 'Sticker By'
-  var sticker_author = 'Komari Bot'
+  var sticker_author = 'Beta Bot'
 }
 
 const file_exif = "function/exif.json"
@@ -61,19 +61,19 @@ global.minety = pickRandom(['application/msword', 'application/vnd.ms-excel', 'a
 global.atlaapi= '8Zv6ptlT6VAyLTi0MXBgDr4gQgweeC7X1mZWcFuyFSQteGJ8GHuH8eS71BDhHc8iGZ7S8bBIBTi8v8oMzKnQrzhAdkpHirYEGcVg'
 global.version = '5.0.3'
 global.sessionName = 'Ditz' // Jangan Di Ubah
-global.gcbot = 'https://chat.whatsapp.com/CfoZa7yhouZ51XXYM3lKY7'
-global.instagram = 'https://instagram.com/wayssokasik'
+global.gcbot = 'https://chat.whatsapp.com/FuLN9mW1pbgCxgCMllBgZA'
+global.instagram = '-'
 // buttons settings
-global.namebot = '© Komari_Botz(Public Bot)'
+global.namebot = '© Beta_Botz(Public Bot)'
 global.botversi = '2.0.0'
 global.thumb = 'https://telegra.ph/file/cc3f75f0666f503d367a3.jpg'
 global.docthumb = 'https://telegra.ph/file/7ca545ade6f60b4a4a771.jpg'
 global.footer = 'Powered By _*Dev. Expertise*_'
 
-global.email = 'AditGantengJir@gmail.com'
-global.creator = "6285717062467@s.whatsapp.net"
-global.nomorbot = '-'
-global.nomorown = '6285717062467'
+global.email = 'epepbooyah1a@gmail.com'
+global.creator = "6285603256172@s.whatsapp.net"
+global.nomorbot = '6289501954399'
+global.nomorown = '6285603256172
 
 // Panel
 global.domain = '' // Domain Web
@@ -83,19 +83,19 @@ global.eggs = '15'
 global.locs = '1'
 // Sosial Media
 global.sig = '-'
-global.syt = 'https://youtube.com/@DitzOfc'
+global.syt = '-'
 global.sgh = '-'
-global.sgc = 'https://chat.whatsapp.com/CfoZa7yhouZ51XXYM3lKY7'
-global.swa = 'https://wa.me/6285717062467'
+global.sgc = 'https://chat.whatsapp.com/FuLN9mW1pbgCxgCMllBgZA'
+global.swa = 'https://wa.me/6285603256172'
 global.swb = '-' // Link Discord
-global.snh = '' // Link nhentai
+global.snh = 'nhentai.com' // Link nhentai
 
 // Pembayaran
-global.pdana = '~Not Found~'
-global.povo = '~Not Found~'
-global.pgopay = '~Not Found~'
-global.pulsa = '~Not Found~'
-global.pulsa2 = '~Not Found~'
+global.pdana = '6285603256172'
+global.povo = '6285603256172'
+global.pgopay = '6285603256172'
+global.pulsa = '6289501954399'
+global.pulsa2 = '6285603256172'
 global.psaweria = '~Not Found~'
 global.ptrakteer = '~Not Found~'
 global.psbuzz = '~Not Found~'
@@ -108,17 +108,17 @@ global.useMulti = true
 global.autoread = true
 
 // Watermark
-global.packname = 'DitzOfc'
+global.packname = 'SeppOfc'
 global.author = '-'
-global.wm = '©DitzOfc'
-global.wm2 = 'DitzOfc'
+global.wm = '©SeppOfc'
+global.wm2 = 'SeppOfc'
 global.titlebot = `${global.wm}`
-global.danied = 'A K S E S  K A M U  D I  T O L A K!!'
+global.danied = '*_A K S E S  K A M U  D I  T O L A K!!_*'
 global.done = '```Status Request :```' + ' `Succes`'
-global.packname = 'Komari_Botz'
-global.author = 'Aditya'
-global.nameown = 'DitzOfc'
-global.wait = 'Wait a moment... '
+global.packname = 'Beta_Botz'
+global.author = 'Sepp'
+global.nameown = 'SeppOfc'
+global.wait = '*_Wait a moment..._* '
 
 // Tampilan
 global.htki =  '⬣───「' // Hiasan kiri
