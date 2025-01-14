@@ -76,9 +76,9 @@ global.nomorbot = '6289501954399'
 global.nomorown = '6285603256172
 
 // Panel
-global.domain = '' // Domain Web
-global.apikey = '' // Key PTLA
-global.c_apikey = '' // Key PTLC
+global.domain = 'https://solid-funicular-wrgwv5rj4qj5f96g-80.app.github.dev' // Domain Web
+global.apikey = 'ptla_V4wX6xKUMovvPst3YKVsMjaI0NpbiFUOAkTrjY39r3p' // Key PTLA
+global.c_apikey = 'ptlc_bfoB5dfc0aU00xb1TrCV3pRhbyPih7hJGpp8UfdyXAE' // Key PTLC
 global.eggs = '15'
 global.locs = '1'
 // Sosial Media
@@ -118,7 +118,7 @@ global.done = '```Status Request :```' + ' `Succes`'
 global.packname = 'Beta_Botz'
 global.author = 'Sepp'
 global.nameown = 'SeppOfc'
-global.wait = '*_Wait a moment..._* '
+global.wait = '*Wait a moment...* '
 
 // Tampilan
 global.htki =  '⬣───「' // Hiasan kiri
